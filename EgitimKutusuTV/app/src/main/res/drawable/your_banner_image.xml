@@ -1,0 +1,7 @@
+<!-- res/drawable/your_banner_image.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#FF0000" /> <!-- Replace with your desired color -->
+    <size android:width="200dp"
+        android:height="100dp" /> <!-- Replace with your desired dimensions -->
+</shape>
